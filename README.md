@@ -1,8 +1,8 @@
-# Flip-Book-Design-Website
-
 # Flip Book Animation
 
 This project is an interactive flip book animation created using HTML and CSS. The flip book simulates the turning of pages with a smooth 3D flipping effect, offering a visually appealing and engaging user experience.
+
+Check out the live version of the website [here](https://shubiks.github.io/Flip-Book-Design-Website/).
 
 ## Technologies Used
 
