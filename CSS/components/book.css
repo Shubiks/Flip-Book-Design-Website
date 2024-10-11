@@ -1,5 +1,5 @@
 .book{
-    display: flex;
+    display: flex; 
 }
 
 #cover{
@@ -39,6 +39,7 @@
     box-shadow: inset 20px 0 50px rgba(0, 0, 0, 0.5) 0 2px 5px rgba(0, 0, 0, 0.5);
 }
 
+
 .back{
     position: absolute;
     width: 100%;
@@ -68,6 +69,6 @@
 }
 
 .flip:last-of-type .back-btn {
-    color: #fff; /* White color for the last one */
+    color: #fff;
 }
 
