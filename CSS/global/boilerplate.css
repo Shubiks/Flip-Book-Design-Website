@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(90deg, #fff 50%, #4a1010 50%);
+}
+
+input{
+    display: none;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
